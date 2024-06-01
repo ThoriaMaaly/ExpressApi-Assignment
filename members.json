@@ -1,0 +1,34 @@
+[
+    {
+        "Id": 1,
+        "Name": "omar",
+        "NationalId": 2664849,
+        "PhoneNumber": 1165489,
+        "Membership": {
+            "from": 1,
+            "to": 4,
+            "cost": 350
+        },
+        "Status": {
+            "active": false,
+            "freeze": true
+        },
+        "TrainerId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Eyad",
+        "NationalId": 2664849,
+        "PhoneNumber": 1165489,
+        "Membership": {
+            "from": 1.5,
+            "to": 5.5,
+            "cost": 150
+        },
+        "Status": {
+            "active": true,
+            "freeze": false
+        },
+        "TrainerId": 2
+    }
+]

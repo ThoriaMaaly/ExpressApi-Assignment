@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "mohamed",
+        "Duration": {
+            "from": 1,
+            "to": 7
+        }
+    },
+    {
+        "Id": 2,
+        "Name": "Ramy",
+        "Duration": {
+            "from": 2.5,
+            "to": 8
+        }
+    },
+    {
+        "Id": 3,
+        "Name": "Mostafa",
+        "Duration": {
+            "from": 11,
+            "to": 4
+        }
+    }
+]
